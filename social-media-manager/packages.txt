@@ -1,2 +1,5 @@
 pandoc
 libgl1-mesa-glx
+ffmpeg 
+libsm6 
+libxext6
