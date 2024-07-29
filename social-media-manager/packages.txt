@@ -4,3 +4,5 @@ libgl1-mesa-glx
 ffmpeg 
 libsm6 
 libxext6
+libglu1
+libgl1
