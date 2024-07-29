@@ -13,8 +13,8 @@ sendgrid
 moviepy
 requests
 pypandoc
-opencv-python-headless
 opencv-python
+opencv-python-headless
 numpy
 openai
 google-api-python-client
